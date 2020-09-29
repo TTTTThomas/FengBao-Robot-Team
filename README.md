@@ -28,4 +28,4 @@
 ###### 更新时间：2020.09.18
 ----
 
-<img src="图片/logo.1.jpg" style="zoom: 25%;" />
+<img src="Pictures/logo/logo.1.jpg" style="zoom: 25%;" />
