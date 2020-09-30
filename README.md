@@ -4,7 +4,7 @@
 
 ### 战队信息库
 - [团队架构](TeamStructure.md)
-- [团队章程](TeamCharter.md)
+- [团队章程](Pictures/团队章程/团队章程.pdf)
 - [队员信息库](TeamInformationBase.htm)
 - [成果信息库](AchievementInformationBase.md)
 
