@@ -5,9 +5,6 @@
 
 <img src="Pictures/团队构架/管理层构架.png" style="zoom:;" />
 
-
-
-![机器人队技术研发架构]
 ###### 战队职位名单：
 
  [华北科技学院 RoboMaster 团队架构.xmind](Pictures/团队构架/团队架构.xmind) 
