@@ -4,7 +4,7 @@
 
 ###### 战队职位职能：
 
-<img src="Pictures\团队信息库\机器人队管理运营架构 V2.0.png" alt="机器人队管理运营架构 V2.0" style="zoom:;" />
+<img src="Pictures/团队构架/管理层构架.png" style="zoom:;" />
 
 
 
