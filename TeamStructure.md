@@ -25,7 +25,7 @@
 
 ![人员分工—机械组](Pictures/团队构架/机械.png)
 
-![人员分工—电控组](Pictures\Pictures/团队构架/电控.png)
+![人员分工—电控组](Pictures/团队构架/电控.png)
 
 ![人员分工—视觉组](Pictures/团队构架/视觉.png)
 
