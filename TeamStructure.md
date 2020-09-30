@@ -11,7 +11,7 @@
 ![机器人队技术研发架构]
 ###### 战队职位名单：
 
- [华北科技学院 RoboMaster 团队架构.xmind](Files\团队信息库\厦门大学 RoboMaster 团队架构.xmind) 
+ [华北科技学院 RoboMaster 团队架构.xmind](Files\团队信息库\RoboMaster 团队架构.xmind) 
 
 ### 兵种研发架构：
 
