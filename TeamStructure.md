@@ -15,7 +15,7 @@
 
 ### 兵种研发架构：
 
-![厦门大学 RoboMaster 兵种架构](Pictures/团队构架/兵种构架.png)
+![华北科技学院 RoboMaster 兵种架构](Pictures/团队构架/兵种构架.png)
 
 ### 兵种人数分布：
 
