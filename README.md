@@ -3,7 +3,7 @@
 # 风暴战队-项目管理文档
 
 ### 战队信息库
-- [团队架构](Pictures/团队构架/团队架构.xmind)
+- [团队架构](TeamStructure.md)
 - [团队章程](Pictures/团队章程/团队章程.pdf)
 - [队员信息库](TeamInformationBase.htm)
 - [成果信息库](AchievementInformationBase.md)
